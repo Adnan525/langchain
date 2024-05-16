@@ -6,6 +6,9 @@
 - langchain_core
 - langchain_community
 - streamlit
+- langserve
+- fastapi
+- uvicorn
 - Install Ollama
 ```bash 
    curl -fsSL https://ollama.com/install.sh | sh
